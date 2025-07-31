@@ -1,0 +1,23 @@
+<html>
+    <head>
+       <title>Chevy Silverdo</title>
+         <style>
+            #truck {
+                float:right
+            }
+            #truck2 {
+                float:left;
+            }
+         </style>
+    </head>
+    <body>
+         <h1>The Chevy Silverado hd</h1>
+
+         <p>The Chevy sileverado hd is one of the most popular trucks</p>
+
+         <p>
+       <img id="truck" src="Chevy.jpg" alt="Chevy Silverado hd" style="width:300px;height:200px;">
+       <img id="truck2" src="Chevy.jpg" alt="Chevy Silverado hd" style="width:300px;height:200px;">
+       </p>
+    </body>
+</html>
